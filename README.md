@@ -1,5 +1,9 @@
 # Social-distancing-detection-YOLOv3
 ### YOLOv3 explained
+#### ![image](https://user-images.githubusercontent.com/62443378/124388814-25df5b00-dd02-11eb-945e-28ab91cc7ff2.png)
+
+#### YOLOv3 (You Only Look Once, Version 3) is a real-time object detection algorithm that identifies specific objects in videos, live feeds, or images. Versions 1-3 of YOLO were created by Joseph Redmon and Ali Farhadi.
+
 #### After a frame is read from the input image or video stream, it is passed through the blobFromImage function to convert it to an input blob for the neural network. In this process, it scales the image pixel values to a target range of 0 to 1 using a scale factor of 1/255. It also resizes the image to the given size of (416, 416) without cropping. Note that we do not perform any mean subtraction here, hence pass [0,0,0] to the mean parameter of the function and keep the swapRB parameter to its default value of 1.
 ```python
 blob = cv2.dnn.blobFromImage(frame, 1 / 255.0, (416, 416),swapRB=True, crop=False)
@@ -18,3 +22,4 @@ layerOutputs = net.forward(ln)
 
 ### References -: 
 #### https://learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
+#### https://viso.ai/deep-learning/yolov3-overview/
