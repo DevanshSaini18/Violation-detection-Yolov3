@@ -14,3 +14,7 @@ ln = [ln[i[0] - 1] for i in net.getUnconnectedOutLayers()]
 ``` python
 layerOutputs = net.forward(ln)   
 ```
+
+
+### References -: 
+#### https://learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
