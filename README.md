@@ -11,7 +11,7 @@
 * [numpy](https://numpy.org/) -: for performing basic algebraic/multi-dimensional array operations
 
 ### Object Detection algorithm used [YOLOv3](https://pjreddie.com/darknet/yolo/)
-### Basic theoritical idea behind yolo algorithm
+
 
 ### YOLOv3 explained
 #### ![YOLOv3_ Real-Time Object Detection Algorithm (What's New_) _ viso ai - Brave 7_4_2021 7_57_48 PM](https://user-images.githubusercontent.com/62443378/124389295-19f49880-dd04-11eb-928e-3f555d7633a5.png)
