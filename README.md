@@ -1,4 +1,4 @@
-# Social-distancing-detection-YOLOv3
+
 ### Quick overview
 
 ![YOLO v3 project workflow image 2](https://user-images.githubusercontent.com/62443378/125164705-2b7ceb00-e1b1-11eb-81aa-c4196a6ae9e1.png)
