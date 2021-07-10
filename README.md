@@ -1,10 +1,4 @@
 
-### Quick overview
-
-
-![YOLO v3 project image](https://user-images.githubusercontent.com/62443378/125178033-8688ff00-e1fe-11eb-8965-ae7478698a7a.jpeg)
-
-
 ### Libraries used
 * [pafy](https://pypi.org/project/pafy/) -: for getting youtube video frame by frame
 * [opencv](https://pypi.org/project/opencv-python/) -: for drawing rectangles and lines. And displaying each frame
@@ -12,6 +6,9 @@
 * [numpy](https://numpy.org/) -: for performing basic algebraic/multi-dimensional array operations
 
 ### Object Detection algorithm used [YOLOv3](https://pjreddie.com/darknet/yolo/)
+
+### Quick overview
+![YOLO v3 project image](https://user-images.githubusercontent.com/62443378/125178033-8688ff00-e1fe-11eb-8965-ae7478698a7a.jpeg)
 
 
 ### YOLOv3 brief overview 
