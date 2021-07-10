@@ -14,7 +14,7 @@
 ### Object Detection algorithm used [YOLOv3](https://pjreddie.com/darknet/yolo/)
 
 
-### YOLOv3 explained
+### YOLOv3 brief overview 
 #### ![YOLOv3_ Real-Time Object Detection Algorithm (What's New_) _ viso ai - Brave 7_4_2021 7_57_48 PM](https://user-images.githubusercontent.com/62443378/124389295-19f49880-dd04-11eb-928e-3f555d7633a5.png)
 
 #### YOLOv3 (You Only Look Once, Version 3) is a real-time object detection algorithm that identifies specific objects in videos, live feeds, or images. Versions 1-3 of YOLO were created by Joseph Redmon and Ali Farhadi.
