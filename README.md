@@ -1,4 +1,4 @@
-
+### AIM - When distance between two persons is lesser than specified amount they are said to be violating. Here We are identifying the pairs of person found violating the min distance condition in a surveillance video 
 ### Libraries used
 * [pafy](https://pypi.org/project/pafy/) -: for getting youtube video frame by frame
 * [opencv](https://pypi.org/project/opencv-python/) -: for drawing rectangles and lines. And displaying each frame
