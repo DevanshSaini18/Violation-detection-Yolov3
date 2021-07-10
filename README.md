@@ -3,6 +3,7 @@
 ![YOLO v3 project workflow image](https://user-images.githubusercontent.com/62443378/125161183-7f320900-e19e-11eb-9b44-b6ec30f2f7f9.png)
 
 ![YOLO v3 project workflow image](https://user-images.githubusercontent.com/62443378/125161183-7f320900-e19e-11eb-9b44-b6ec30f2f7f9.png) <!-- .element height="10%" width="10%" -->
+![YOLO v3 project workflow image]<img src="https://user-images.githubusercontent.com/62443378/125161183-7f320900-e19e-11eb-9b44-b6ec30f2f7f9.png" width="400" height="790">
 
 
 ### YOLOv3 explained
