@@ -32,6 +32,13 @@ ln = [ln[i[0] - 1] for i in net.getUnconnectedOutLayers()]
 ``` python
 layerOutputs = net.forward(ln)   
 ```
+
+![detection output-3](https://user-images.githubusercontent.com/62443378/125177918-745a9100-e1fd-11eb-8d22-28e7b1d472b4.png)
+
+![detection-output-2](https://user-images.githubusercontent.com/62443378/125177894-38273080-e1fd-11eb-9b69-4ce3048e865f.png)
+
+
+
 ### Other uses of similar technology
 * Video surveillance - Because state-of-the-art object detection techniques can accurately identify and track multiple instances of a given object in a scene, these techniques naturally lend themselves to automating video surveillance systems. For instance, object detection models are capable of tracking multiple people at once, in real-time, as they move through a given scene or across video frames. From retail stores to industrial factory floors, this kind of granular tracking could provide invaluable insights into security, worker performance and safety, retail foot traffic, and more.
 * Crowd counting - Crowd counting is another valuable application of object detection. For densely populated areas like theme parks, malls, and city squares, object detection can help businesses and municipalities more effectively measure different kinds of traffic—whether on foot, in vehicles, or otherwise. This ability to localize and track people as they maneuver through various spaces could help businesses optimize anything from logistics pipelines and inventory management, to store hours, to shift scheduling, and more. Similarly, object detection could help cities plan events, dedicate municipal resources, etc.
