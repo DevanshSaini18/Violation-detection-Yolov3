@@ -30,6 +30,7 @@ ln = [ln[i[0] - 1] for i in net.getUnconnectedOutLayers()]
 ``` python
 layerOutputs = net.forward(ln)   
 ```
+### Sample frames from output
 
 ![detection output-3](https://user-images.githubusercontent.com/62443378/125177918-745a9100-e1fd-11eb-8d22-28e7b1d472b4.png)
 
