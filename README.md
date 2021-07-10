@@ -1,4 +1,8 @@
 # Social-distancing-detection-YOLOv3
+### Quick overview
+![YOLO v3 project workflow image](https://user-images.githubusercontent.com/62443378/125161183-7f320900-e19e-11eb-9b44-b6ec30f2f7f9.png)
+
+
 ### YOLOv3 explained
 #### ![YOLOv3_ Real-Time Object Detection Algorithm (What's New_) _ viso ai - Brave 7_4_2021 7_57_48 PM](https://user-images.githubusercontent.com/62443378/124389295-19f49880-dd04-11eb-928e-3f555d7633a5.png)
 
