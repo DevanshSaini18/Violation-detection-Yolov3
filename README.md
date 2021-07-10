@@ -2,7 +2,8 @@
 ### Quick overview
 
 
-![YOLO v3 project workflow image 3](https://user-images.githubusercontent.com/62443378/125177459-7e7a9080-e1f9-11eb-812e-4eb0edde2f69.png)
+![YOLO v3 project image](https://user-images.githubusercontent.com/62443378/125178033-8688ff00-e1fe-11eb-8965-ae7478698a7a.jpeg)
+
 
 ### Libraries used
 * [pafy](https://pypi.org/project/pafy/) -: for getting youtube video frame by frame
