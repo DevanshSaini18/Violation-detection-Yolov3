@@ -1,6 +1,8 @@
 # Social-distancing-detection-YOLOv3
 ### Quick overview
-![YOLO v3 project workflow image](https://user-images.githubusercontent.com/62443378/125161183-7f320900-e19e-11eb-9b44-b6ec30f2f7f9.png){:height="36px" width="36px"}.
+![YOLO v3 project workflow image](https://user-images.githubusercontent.com/62443378/125161183-7f320900-e19e-11eb-9b44-b6ec30f2f7f9.png)
+
+![YOLO v3 project workflow image](https://user-images.githubusercontent.com/62443378/125161183-7f320900-e19e-11eb-9b44-b6ec30f2f7f9.png) <!-- .element height="50%" width="50%" -->
 
 
 ### YOLOv3 explained
