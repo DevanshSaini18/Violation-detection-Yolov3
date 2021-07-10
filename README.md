@@ -1,7 +1,9 @@
 
 ### Quick overview
 
-![YOLO v3 project workflow image 2](https://user-images.githubusercontent.com/62443378/125164705-2b7ceb00-e1b1-11eb-81aa-c4196a6ae9e1.png)
+
+![YOLO v3 project workflow image 3](https://user-images.githubusercontent.com/62443378/125177459-7e7a9080-e1f9-11eb-812e-4eb0edde2f69.png)
+
 
 ### YOLOv3 explained
 #### ![YOLOv3_ Real-Time Object Detection Algorithm (What's New_) _ viso ai - Brave 7_4_2021 7_57_48 PM](https://user-images.githubusercontent.com/62443378/124389295-19f49880-dd04-11eb-928e-3f555d7633a5.png)
