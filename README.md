@@ -4,6 +4,11 @@
 
 ![YOLO v3 project workflow image 3](https://user-images.githubusercontent.com/62443378/125177459-7e7a9080-e1f9-11eb-812e-4eb0edde2f69.png)
 
+### libraries used
+* [pafy](https://pypi.org/project/pafy/) -: for getting youtube video frame by frame
+* [opencv](https://pypi.org/project/opencv-python/) -: for drawing rectangles and lines. And displaying each frame
+* [imutils](https://pypi.org/project/imutils/) -: for resizing the frame
+* [numpy](https://numpy.org/) -: for performing basic algebraic/multi-dimensional array operations
 
 ### YOLOv3 explained
 #### ![YOLOv3_ Real-Time Object Detection Algorithm (What's New_) _ viso ai - Brave 7_4_2021 7_57_48 PM](https://user-images.githubusercontent.com/62443378/124389295-19f49880-dd04-11eb-928e-3f555d7633a5.png)
